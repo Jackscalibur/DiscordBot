@@ -1,2 +1,5 @@
 # DiscordBot
-Discord bot written in Python
+## Overview
+## Getting Started
+## Features
+## Usage
